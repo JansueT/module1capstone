@@ -1,6 +1,13 @@
-
 <a name="CC Global Summit Yoga 2015"></a>
 
+<div align="center">
+
+  <img src="./images/downdog img.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>CC Global Summit Yoga 2015</b></h3>
+
+</div>
 
 # Capstone:JansueT
 
