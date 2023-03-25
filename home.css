@@ -73,7 +73,7 @@ button {
 /* headline styles */
 
 header {
-  /* background: #f8f9f9 url(./images/scattered-forcefields.svg); */
+  background: #f8f9f9 url(./images/scattered-forcefields.svg);
 }
 
 .headline_p_description {
@@ -128,7 +128,7 @@ main {
 }
 
 .main_p_container {
-  /* padding: 0; */
+  padding: 0;
 }
 
 .main_card {
