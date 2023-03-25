@@ -338,7 +338,7 @@ main {
   background: var(--accent-color);
 }
 
-.main_p{
+.main_p {
   padding: 0;
   margin: 0.5em auto;
   width: 80%;
@@ -383,7 +383,7 @@ main {
   text-align: center;
 }
 
-.ppast_event_title{
+.past_event_title {
   font-weight: 600;
   width: 70%;
   align-self: center;
@@ -424,7 +424,7 @@ main {
   margin-bottom: 2em;
 }
 
-.past_event_2{
+.past_event_2 {
   background-image: url(./images/2014.png);
   background-color: var(--accent-color);
   background-blend-mode: multiply;
@@ -495,14 +495,14 @@ main {
   margin: 1em 0.3em;
 }
 
-.container_footer_reserved{
+.container_footer_reserved {
   display: flex;
   flex-direction: row;
   padding: 0 1.5em;
   justify-content: space-between;
 }
 
-.footer-logo {
+.footer_logo {
   display: flex;
   align-items: center;
   font-size: 1em;
@@ -530,7 +530,7 @@ main {
 }
 
 @media (min-width: 768px) {
-  .past_event_description{
+  .past_event_description {
     margin-bottom: 4em;
   }
 
@@ -594,7 +594,7 @@ main {
     font-size: 3em;
   }
 
-  .footer_p_reserved{
+  .footer_p_reserved {
     font-size: 1em;
     line-height: 1.5em;
   }
