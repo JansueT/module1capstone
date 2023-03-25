@@ -89,10 +89,10 @@ header {
   text-align: center;
 }
 
-.header_nav_mobile {
+/* .header_nav_mobile {
   display: flex;
   justify-content: left;
-}
+} */
 
 .headline_p_description_desktop {
   display: none;
@@ -148,6 +148,7 @@ header {
   background-color: gray;
   color: #3a4a42;
   opacity: 0.95;
+  justify-content: left;
 }
 
 .menu_btn,
