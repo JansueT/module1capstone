@@ -151,7 +151,7 @@ header {
 }
 
 .menu_btn,
-.header_nav_mobile > button {
+.header-nav-mobile > button {
   background: none;
 }
 
@@ -212,7 +212,7 @@ header {
     box-shadow: var(--shadow);
   }
 
-  .header_nav_desktop {
+  .header-nav-desktop {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -255,7 +255,7 @@ header {
     display: flex;
   }
 
-  .header_t_nav .header_t_nav_desktop > li > a {
+  .header_t_nav  .header_t_nav_desktop > li > a {
     font-weight: normal;
     letter-spacing: normal;
     color: white;
@@ -338,7 +338,11 @@ main {
   background: var(--accent-color);
 }
 
-.main_p{
+.main_p_desktop {
+  display: none;
+}
+
+.main_p {
   padding: 0;
   margin: 0.5em auto;
   width: 80%;
@@ -362,6 +366,7 @@ main {
   }
 
   .main_p_desktop {
+    display: flex;
     margin: 0 auto;
     font-size: 0.8em;
     text-align: center;
@@ -383,7 +388,7 @@ main {
   text-align: center;
 }
 
-.ppast_event_title{
+.past_event_title {
   font-weight: 600;
   width: 70%;
   align-self: center;
@@ -424,7 +429,7 @@ main {
   margin-bottom: 2em;
 }
 
-.past_event_2{
+.past_event_2 {
   background-image: url(./images/2014.png);
   background-color: var(--accent-color);
   background-blend-mode: multiply;
@@ -495,14 +500,14 @@ main {
   margin: 1em 0.3em;
 }
 
-.container_footer_reserved{
+.container_footer_reserved {
   display: flex;
   flex-direction: row;
   padding: 0 1.5em;
   justify-content: space-between;
 }
 
-.footer-logo {
+.footer_logo {
   display: flex;
   align-items: center;
   font-size: 1em;
@@ -520,7 +525,7 @@ main {
   font-size: 2em;
 }
 
-.footer_p_reserved {
+.footer_p_reserved  {
   font-size: 0.7em;
   line-height: 1em;
   display: flex;
@@ -530,7 +535,7 @@ main {
 }
 
 @media (min-width: 768px) {
-  .past_event_description{
+  .past_event_description {
     margin-bottom: 4em;
   }
 
@@ -548,7 +553,7 @@ main {
     width: 48%;
   }
 
-  .past_event_2 {
+  .past_event_1 {
     padding: 0;
     margin: 0;
     width: 48%;
@@ -594,7 +599,7 @@ main {
     font-size: 3em;
   }
 
-  .footer_p_reserved{
+  .footer_p_reserved {
     font-size: 1em;
     line-height: 1.5em;
   }
