@@ -1,10 +1,12 @@
-<a name="readme-top"></a>
 
-# Portfolio:JansueT
+<a name="CC Global Summit Yoga 2015"></a>
+
+
+# Capstone:JansueT
 
 Getting Started
 Cloning the project
-Git clone git@github.com:JansueT/Portfolio.git
+Git clone git@github.com:JansueT/module1capstone.git
 To get a local copy up and running follow these simple example steps.
 Prerequisites
 
@@ -41,15 +43,30 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 <!-- PROJECT DESCRIPTION -->
 
-# Portfolio: Preserve data in the browser
+# Capstone: An online website for a conference
 
 ## Learning objectives
 
-- I used local storage to save user input.
+- I understand how to use medium-fidelity wireframes to create a UI.
+- I will use semantic HTML tags.
+- I will apply best practices in HTML code.
+- I will use CSS selectors correctly.
+- I will use CSS box model.
+- I will useFlexbox to place elements in the page.
+- I will use images and backgrounds to enhance the look of a website.
+- I will demonstrate ability to create UIs adaptable to different screen sizes using media queries.
+- I will use GitHub Pages to deploy web pages.
+- I will apply JavaScript best practices and language style guides in code.
+- I will use JavaScript to manipulate DOM elements.
+- I will use JavaScript events.
+- I will use objects to store and access data.
+- I will communicate technical concepts to other technical people.
 
 ## Description
 
-For this final milestone of my portfolio website, I will save the form data in the `local storage` of the browser. That way when the user reloads the page the data they filled out in the form will be preserved.
+In this capstone project ;
+(([remember what they are?](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/capstone_intro.md))) 
+I am going to build is based on an *online website for a conference*.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,7 +116,7 @@ For this final milestone of my portfolio website, I will save the form data in t
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and runing follow these simple example steps. 1.Clone the Repo or Download the Zip file or git clone git@github.com:JansueT/Portfolio.git](https://github.com/JansueT/Portfolio.git)o. Open it with the live server 
+To get a local copy up and runing follow these simple example steps. 1.Clone the Repo or Download the Zip file or git clone git@github.com:JansueT/module1capstone.git. Open it with the live server 
 
 ### Prerequisites
 
@@ -111,7 +128,7 @@ Clone this repository to your desired folder:
 
 ```sh
 
-  git clone https://github.com/JansueT/Portfolio.git
+Git clone git@github.com:JansueT/module1capstone.git
 
 ```
 
@@ -142,17 +159,7 @@ No installation needed
 
 ## 👥 Collabrations <a name="collabrationns"></a>
 
-👤 **Yan Min Thwin**
 
-- GitHub: [@anbehindY](https://github.com/anbehindY)
-- Twitter: [@yanminthwin](https://twitter.com/yanminthwin)
-- LinkedIn: [Yan Min Thwin](https://www.linkedin.com/in/yan-min-thwin-192862215)
-
-👤 **Aimable BANCUNGUYE**
-
-- GitHub: [@bancunguye66](https://github.com/bancunguye66)
-- Twitter: [@bancunguye66](https://twitter.com/bancunguye66)
-- LinkedIn: [Aimable BANCUNGUYE](https://linkedin.com/in/Aimable BANCUNGUYE)
 
 <!-- CONTRIBUTING -->
 
